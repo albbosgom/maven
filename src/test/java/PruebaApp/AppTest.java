@@ -37,7 +37,7 @@ public class AppTest
     }
     
     public void testYolo(){
-        assertFalse("YOLO");
+        assertTrue("YOLO"=="YOLO")
     }
     
 }
